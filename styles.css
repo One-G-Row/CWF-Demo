@@ -131,6 +131,7 @@ nav ul li a:hover{
     background-size: cover;
     max-width: 100vw;
     height: 41vh;
+    position: relative;
 }
 
 .cta-section img{
@@ -150,7 +151,7 @@ nav ul li a:hover{
 }
 
 .cta-section p{
-    top: 86rem;
+    top: 60%;
     font-size: 16pt;
 }
 
@@ -164,7 +165,7 @@ nav ul li a:hover{
 }
 
 .cta-section button{
-    top: 88rem;
+    top: 75%;
     border: none;
     padding: 0.5rem 2rem;
     border-radius: 0.5rem;
@@ -322,13 +323,13 @@ footer{
 
 .cta-section p{
     width: 65%;
-    top: 99rem;
+    top: 40%;
     font-size: 14pt;
     left: 3rem;
 }
 
 .cta-section button{
-    top: 103rem;
+    top: 62%;
     left: 3.2rem; 
     padding: 0.5rem 2rem;
 }
@@ -435,13 +436,13 @@ footer{
 
 .cta-section p{
     width: 52%;
-    top: 96.5rem;
+    top: 10%;
     font-size: 14.5pt;
     left: 2rem;
 }
 
 .cta-section button{
-    top: 104rem;
+    top: 50%;
     left: 1.8rem; 
     padding: 0.8rem 2rem;
     
