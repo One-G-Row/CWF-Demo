@@ -125,7 +125,7 @@ nav ul li a:hover{
 }
 
 .cta-section{
-    background-image: url(/images/poster_logo_and_girl_only.png);
+    background-image: url(images/poster_logo_and_girl_only.png);
     background-color: rgb(175, 107, 231);
     background-blend-mode: overlay;
     background-size: cover;
