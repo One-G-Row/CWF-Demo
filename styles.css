@@ -129,7 +129,7 @@ nav ul li a:hover{
     background-color: rgb(175, 107, 231);
     background-blend-mode: overlay;
     background-size: cover;
-    background-position: center;
+    background-position: top;
     max-width: 100vw;
     height: 41vh;
     position: relative;
